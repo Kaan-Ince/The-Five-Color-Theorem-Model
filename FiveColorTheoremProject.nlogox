@@ -118,12 +118,7 @@ No other related models from the NetLogo library nor the Internet (within my sea
 
 ## CREDITS AND REFERENCES
 
-This model was done by Kaan Ince as the final project for the Agent Based Modelling course that took place on 26th-29th of May 2026 offered by DSTI School of Engineering.
 The definition of planar graph and chromatic number, and the statements of the four and five color theorems from: Chartrand, G., & Zhang, P. (2012). A First Course in Graph Theory. http://catdir.loc.gov/catdir/enhancements/fy1201/2011038125-d.html
-
-## NOTES
-
-If found interesting enough, I give permission for this model to be possibly shown to future classes as an example.
 ]]></info>
   <turtleShapes>
     <shape name="default" rotatable="true" editableColorIndex="0">
