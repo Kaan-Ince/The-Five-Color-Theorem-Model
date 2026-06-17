@@ -1,3 +1,21 @@
+## VISUAL EXAMPLES OF THE MODEL
+
+Below are two randomly generated planar graphs with 30 (the default) edges and its coloring according to the rules of the theorems.
+
+The following two images show the before and after of the model running. In the case for these two, only four colors were needed to color the graph; hence, proving The Four Color Theorem.
+
+![ABM-FourColorExample1.png](https://github.com/Kaan-Ince/The-Five-Color-Theorem-Model/blob/main/ABM-FourColorExample1.png)
+
+![ABM-FourColorExample2.png](https://github.com/Kaan-Ince/The-Five-Color-Theorem-Model/blob/main/ABM-FourColorExample2.png)
+
+The following two images show another graph where five colors were needed to color the graph, giving a visual proof for The Five Color Theorem.
+
+![ABM-FiveColorExample1.png](https://github.com/Kaan-Ince/The-Five-Color-Theorem-Model/blob/main/ABM-FiveColorExample1.png)
+
+![ABM-FiveColorExample2.png](https://github.com/Kaan-Ince/The-Five-Color-Theorem-Model/blob/main/ABM-FiveColorExample2.png)
+
+
+Below is the information included in the Info tab of the NetLogo file:
 ## WHAT IS IT?
 
 This model is a visualization of a result from Graph Theory called The Five Color Theorem. The theorem states that every planar graph is 5-colorable. The definition of a planar graph is as follows: A graph G is called a planar graph if G can be drawn in the plane so that no two of its edges cross each other. The model produces a planar graph (although it might not look like such in the interface window, if one were able to move the nodes, it would be seen that the resulting graphs are planar, see the "Extending The Model" section on the Info tab for more on this topic) then applies the theorem to color the vertices, giving a neat visualization to the theorem.
